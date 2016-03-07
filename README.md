@@ -4,7 +4,7 @@ Makes creating presentations feel, more like programming.  Uses Github-pages to 
 -----------
 
 ###Quick Start
-0. Visit: https://github.com/aln787/revealMD-simpleStarter
+0. Visit: 	https://goo.gl/lfAmbg
 0. Fork the project
  - ![](images/firstTimeSet-up/1.png)
 0. Select your-self as the fork location
