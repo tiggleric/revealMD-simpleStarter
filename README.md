@@ -36,7 +36,8 @@ Makes creating presentations feel, more like programming.  Uses Github-pages to 
 
 ----------
 
-###View Locally
+##View Locally
+- [Using HTTP Server](https://www.npmjs.com/package/http-server)
 ![](images/firstTimeSet-up/turtlesStrappedToRockets.png)
 
 ####Install HTTP Server
