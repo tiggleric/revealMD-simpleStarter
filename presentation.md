@@ -1,14 +1,15 @@
 ##TODO: Add your presentations title
-<p><br/><br/><small>TODO: Add your name</a></small></p>
 
 
 ###Vertical Slide 1
-- the 2 spaces above - indicate a vertical transition
+- A new line, 3 dashes and a newline - indicate a new slide for the current section (horizontal transition)
+![](images/NewSlideForCurrentSection.png)
 
 ---
 
 ###Section 2
-- the combination of space, 3 dashes, space - indicate a horizontal transition
+- 2 new lines - indicate a new section (vertical transition)
+![](images/NewSection.png)
 
 
 ###Example of how to include an image

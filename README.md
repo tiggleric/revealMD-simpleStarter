@@ -9,14 +9,6 @@ Makes creating presentations feel, more like programming.  Uses Github-pages to 
  - ![](images/firstTimeSet-up/1.png)
 0. Select your-self as the fork location
  - ![](images/firstTimeSet-up/2.png)
-0. Update the index.html in your fork of the project
- - ![](images/firstTimeSet-up/3.png)
-0. Edit the index file
- - ![](images/firstTimeSet-up/4.png)
-0. Replace all `TODO:`'s with your content
- - ![](images/firstTimeSet-up/5.png)
-0. Add a note about what you changed and click `Commit Changes`
- - ![](images/firstTimeSet-up/6.png)
 0. Now open `presentation.md`
  - ![](images/firstTimeSet-up/7.png)
 0. Click edit
